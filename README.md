@@ -1,2 +1,2 @@
 # simple-vue-login-system
-This is a simple vue project where i implement a login system
+A simple vue project for implementing a login system.
